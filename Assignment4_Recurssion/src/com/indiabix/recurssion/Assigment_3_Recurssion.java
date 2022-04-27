@@ -1,6 +1,6 @@
 package com.indiabix.recurssion;
 	 
-	class Assigment_4_Recurssion {
+	class Assigment_3_Recurssion {
 	    static int numberOfPaths(int m, int n)
 	    {  
 	        if (m == 2 || n == 2)
