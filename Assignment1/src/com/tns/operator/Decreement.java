@@ -1,6 +1,6 @@
 package com.tns.operator;
 
-public class Decreement Operator {
+public class Decreement {
 
 	public static void main(String[] args) {
 	int a=5,b=3;
@@ -12,5 +12,6 @@ public class Decreement Operator {
 
 	}
 }
+
 
 
