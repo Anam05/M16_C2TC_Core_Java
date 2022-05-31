@@ -11,8 +11,8 @@ public class Client {
 
 	public static void main(String[] args) {
 		ShopFactory s=new GSShopfactory();
-		PrimeAcc p=new GSPrimeAcc(101,"ANAM",500,true);
-		NormalAcc n=new GSNormalAcc(182,"Shagufta",600,50);
+		PrimeAcc p=new GSPrimeAcc(101, "ANAM",500,true);
+		NormalAcc n=new GSNormalAcc(182,"Shagufta ",600,50);
 		System.out.println("Prime Account");
 		p.bookProduct(p.getCharges());
 		System.out.println("Normal Account");
